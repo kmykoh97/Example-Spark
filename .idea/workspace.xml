@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="lab:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c27e368f-64ef-4704-a4c0-acb1ea60fdd0" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="lab" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Package Object" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1bTifhs9xGok1MDDRY5MPyWF1kd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../distributed systems/lab/distributed-system/mapreduce" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="scala_project_settings_configurable.last_selected_tab_index" value="0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kmyko\Desktop\computer architecture\lab\src\test" />
+      <recent name="C:\Users\kmyko\Desktop\computer architecture\lab\src\main\scala\example" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SSSP">
+    <configuration name="ComprehensiveExample" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="example.ComprehensiveExample" />
+      <module name="lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SSSP" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="SSSP" />
+      <module name="lab" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pagerank" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="example.pagerank" />
+      <module name="lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="pageranknative" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="example.pageranknative" />
+      <module name="lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="wordCount" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="example.wordCount" />
+      <module name="lab" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.wordCount" />
+      <item itemvalue="Application.SSSP" />
+      <item itemvalue="Application.pagerank" />
+      <item itemvalue="Application.ComprehensiveExample" />
+      <item itemvalue="Application.pageranknative" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SSSP" />
+        <item itemvalue="Application.pagerank" />
+        <item itemvalue="Application.pageranknative" />
+        <item itemvalue="Application.ComprehensiveExample" />
+        <item itemvalue="Application.wordCount" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c27e368f-64ef-4704-a4c0-acb1ea60fdd0" name="Default Changelist" comment="" />
+      <created>1588662588152</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588662588152</updated>
+      <workItem from="1588662591047" duration="2138000" />
+      <workItem from="1588664744793" duration="3544000" />
+      <workItem from="1588765441067" duration="966000" />
+      <workItem from="1589721869577" duration="4686000" />
+      <workItem from="1589796870024" duration="499000" />
+      <workItem from="1590041573442" duration="11910000" />
+      <workItem from="1590136690667" duration="3265000" />
+      <workItem from="1590144006457" duration="1418000" />
+      <workItem from="1590150309300" duration="3526000" />
+      <workItem from="1590395462314" duration="4534000" />
+      <workItem from="1590482514159" duration="5981000" />
+      <workItem from="1590678603356" duration="9698000" />
+      <workItem from="1590996370798" duration="1509000" />
+      <workItem from="1591086929651" duration="3063000" />
+      <workItem from="1591278520328" duration="155000" />
+      <workItem from="1591278724540" duration="292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="3" key="#Project_Structure" timestamp="1591088955527">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="3" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1591088955527" />
+    <state x="371" y="100" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1590142258397">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="371" y="100" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1280.680@0.0.1280.680" timestamp="1590142258397" />
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590046844070">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="96" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1590046844070" />
+    <state x="393" y="131" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1588666903135">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="393" y="131" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.680@0.0.1280.680" timestamp="1588666903135" />
+    <state x="274" y="34" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1588666123953">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="274" y="34" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1280.680@0.0.1280.680" timestamp="1588666123953" />
+    <state x="392" y="86" key="FileChooserDialogImpl" timestamp="1591278996540">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="392" y="86" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1591278996540" />
+    <state width="1237" height="72" key="GridCell.Tab.0.bottom" timestamp="1591090577041">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="72" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1591090577041" />
+    <state width="1237" height="242" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1590146704005" />
+    <state width="1237" height="72" key="GridCell.Tab.0.center" timestamp="1591090577041">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="72" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1591090577041" />
+    <state width="1237" height="242" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1590146704004" />
+    <state width="1237" height="72" key="GridCell.Tab.0.left" timestamp="1591090577041">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="72" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1591090577041" />
+    <state width="1237" height="242" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1590146704004" />
+    <state width="1237" height="72" key="GridCell.Tab.0.right" timestamp="1591090577041">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="72" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1591090577041" />
+    <state width="1237" height="242" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1590146704004" />
+    <state x="144" y="0" key="SettingsEditor" timestamp="1591278846955">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1591278846955" />
+    <state x="91" y="46" key="new project wizard" timestamp="1591279008873">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="91" y="46" key="new project wizard/0.0.1280.680@0.0.1280.680" timestamp="1591279008873" />
+  </component>
+</project>
